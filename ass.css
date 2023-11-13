@@ -1,0 +1,51 @@
+h1{
+    padding: 5px;
+    color: coral;
+}
+.nav
+{
+    
+    background-color: aliceblue;
+    display: flex;
+ width: 100%;
+  
+}
+p1
+{
+    font-size:large;
+    padding-top: 35px;
+    padding-left: 725px;
+}
+a {
+    font-weight: bold;
+    padding: 5px;
+}
+
+h2{
+    text-align: center;
+}
+div{
+    width: fit-content;
+    border: 4px solid;
+    border-color: darkgray;
+    padding: 5px;
+    margin:5px;
+}
+div2{
+    width: fit-content;
+    border: 4px solid;
+    border-color: darkgray;
+    padding: 15px;
+    margin:5px;
+}
+div2:hover{
+    background-color: lightskyblue;
+    box-shadow: inset;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+    cursor: pointer;
+
+}
